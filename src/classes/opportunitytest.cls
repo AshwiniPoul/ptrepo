@@ -7,7 +7,7 @@ public class opportunitytest {
 
     @testSetup public static void createOpportunityData() {
 
-        // create standard price book
+       
 
         Pricebook2 stdPricebook = new Pricebook2(
 
