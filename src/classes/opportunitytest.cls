@@ -3,11 +3,11 @@ public class opportunitytest {
    
 
 
-  
+    // create test data
 
     @testSetup public static void createOpportunityData() {
 
-       
+        // create standard price book
 
         Pricebook2 stdPricebook = new Pricebook2(
 
