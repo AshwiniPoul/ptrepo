@@ -3,7 +3,7 @@
         @testSetup
         static void setup() {
             // Create a test account
-            Account testAccount = new Account(Name = 'Test Account');
+            Account testAccount = new Account(Name = 'Test Account123');
             insert testAccount;
         }
     
