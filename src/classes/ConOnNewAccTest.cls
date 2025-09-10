@@ -3,7 +3,7 @@
 public class ConOnNewAccTest {
 
     @isTest
-
+int a
     public static void testTrigger() {
 
         List<Account> accList = new List<Account>();
