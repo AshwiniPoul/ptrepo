@@ -5,7 +5,7 @@ public class ConOnNewAccTest {
     @isTest
 
     public static void testTrigger() {
-
+int a
         List<Account> accList = new List<Account>();
 
         Set<Id> accIds = new Set<Id>();
